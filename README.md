@@ -890,7 +890,7 @@ We would like to thank the following projects and individuals for their contribu
 
 
 ## Citation
-If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil: :)
+If you find our paper and code useful in your research, please cite our technical report.
 ```bibtex
 @misc{InteractiveOmni2025,
       title={InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue}, 
