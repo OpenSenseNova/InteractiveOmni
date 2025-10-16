@@ -1,12 +1,12 @@
 # InteractiveOmni
 
 <p align="center">
-InteractiveOmni-4B <a href="https://huggingface.co/sensefvg/InteractiveOmni-4B">🤗</a>&nbsp; | InteractiveOmni-8B <a href="https://huggingface.co/sensefvg/InteractiveOmni-8B">🤗</a>&nbsp; | 📑 <a href="https://arxiv.org/pdf/xxx">Paper</a> &nbsp;&nbsp;
+InteractiveOmni-4B <a href="https://huggingface.co/sensefvg/InteractiveOmni-4B">🤗</a>&nbsp; | InteractiveOmni-8B <a href="https://huggingface.co/sensefvg/InteractiveOmni-8B">🤗</a>&nbsp; | 📑 <a href="https://arxiv.org/abs/2510.13747">Paper</a> &nbsp;&nbsp;
 </p>
 
 ## News
-* 2025.09.xx: 👋 We release the inference code and model weights of [InteractiveOmni-4B](https://huggingface.co/sensefvg/InteractiveOmni-4B) and [InteractiveOmni-8B](https://huggingface.co/sensefvg/InteractiveOmni-8B).
-* 2025.09.xx: 👋 We release the technical report of [InteractiveOmni](https://arxiv.org/pdf/xxx).
+* 2025.10.15: 👋 We release the inference code and model weights of [InteractiveOmni-4B](https://huggingface.co/sensefvg/InteractiveOmni-4B) and [InteractiveOmni-8B](https://huggingface.co/sensefvg/InteractiveOmni-8B).
+* 2025.10.15: 👋 We release the technical report of [InteractiveOmni](https://arxiv.org/abs/2510.13747).
 
 ## Contents
 
@@ -892,9 +892,12 @@ We would like to thank the following projects and individuals for their contribu
 ## Citation
 If you find our paper and code useful in your research, please cite our technical report.
 ```bibtex
-@misc{InteractiveOmni2025,
+@misc{tong2025interactiveomniunifiedomnimodalmodel,
       title={InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue}, 
-      author={InteractiveOmni Team},
+      author={Wenwen Tong and Hewei Guo and Dongchuan Ran and Jiangnan Chen and Jiefan Lu and Kaibin Wang and Keqiang Li and Xiaoxu Zhu and Jiakui Li and Kehan Li and Xueheng Li and Lumin Li and Chenxu Guo and Jiasheng Zhou and Jiandong Chen and Xianye Wu and Jiahao Wang and Silei Wu and Lei Chen and Hanming Deng and Yuxuan Song and Dinghao Zhou and Guiping Zhong and Ken Zheng and Shiyin Kang and Lewei Lu},
       year={2025},
-      url={https://github.com/SenseTime-FVG/InteractiveOmni}, 
+      eprint={2510.13747},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.13747}, 
 }
