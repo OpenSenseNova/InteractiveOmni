@@ -1,11 +1,11 @@
 # InteractiveOmni
 
 <p align="center">
-InteractiveOmni-4B <a href="https://huggingface.co/sensefvg/InteractiveOmni-4B">🤗</a>&nbsp; | InteractiveOmni-8B <a href="https://huggingface.co/sensefvg/InteractiveOmni-8B">🤗</a>&nbsp; | 📑 <a href="https://arxiv.org/abs/2510.13747">Paper</a> &nbsp;&nbsp;
+InteractiveOmni-4B <a href="https://huggingface.co/sensenova/InteractiveOmni-4B">🤗</a>&nbsp; | InteractiveOmni-8B <a href="https://huggingface.co/sensenova/InteractiveOmni-8B">🤗</a>&nbsp; | 📑 <a href="https://arxiv.org/abs/2510.13747">Paper</a> &nbsp;&nbsp;
 </p>
 
 ## News
-* 2025.10.15: 👋 We release the inference code and model weights of [InteractiveOmni-4B](https://huggingface.co/sensefvg/InteractiveOmni-4B) and [InteractiveOmni-8B](https://huggingface.co/sensefvg/InteractiveOmni-8B).
+* 2025.10.15: 👋 We release the inference code and model weights of [InteractiveOmni-4B](https://huggingface.co/sensenova/InteractiveOmni-4B) and [InteractiveOmni-8B](https://huggingface.co/sensenova/InteractiveOmni-8B).
 * 2025.10.15: 👋 We release the technical report of [InteractiveOmni](https://arxiv.org/abs/2510.13747).
 
 ## Contents
