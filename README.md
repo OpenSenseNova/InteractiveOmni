@@ -53,7 +53,7 @@ We provide an example code to run `InteractiveOmni` using 🤗 `Transformers`.
 ```python
 import torch
 from transformers import AutoTokenizer, AutoModel
-path = "sensefvg/InteractiveOmni-8B"
+path = "sensenova/InteractiveOmni-8B"
 model = AutoModel.from_pretrained(
     path,
     torch_dtype=torch.bfloat16,
@@ -67,7 +67,7 @@ import torch
 from transformers import AutoModel, AutoTokenizer
 import torchaudio
 
-path = "sensefvg/InteractiveOmni-8B"
+path = "sensenova/InteractiveOmni-8B"
 model = AutoModel.from_pretrained(
     path,
     torch_dtype=torch.bfloat16,
